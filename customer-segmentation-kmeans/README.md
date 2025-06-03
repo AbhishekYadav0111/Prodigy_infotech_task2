@@ -40,19 +40,38 @@ Customer segmentation helps businesses better understand their customer base and
 ## 📈 Visualizations
 
 ### 1. Histogram
-![Histogram](images/histogram.png)
 
 ### 2. Box Plot
-![Boxplot](images/boxplot.png)
 
 ### 3. Elbow Method
-![Elbow](images/elbow_plot.png)
 
 ### 4. Final Cluster Visualization
-![Clusters](images/scatter_plot.png)
 
 ---
 
 ## 📂 Project Structure
 
+
+---
+
+## 🧠 Learnings
+
+- Importance of scaling data before clustering.
+- How to determine optimal clusters using the Elbow Method.
+- The power of visualizing results for business insights.
+
+---
+
+## 🤝 Let's Connect
+
+If you found this helpful or have suggestions, feel free to connect or fork the repo.
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-yaduvanshi-1a9283208?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- ✉️ abhishekyaduvanshi632@gmail.com
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
 
