@@ -70,8 +70,3 @@ If you found this helpful or have suggestions, feel free to connect or fork the 
 - ✉️ abhishekyaduvanshi632@gmail.com
 
 ---
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
